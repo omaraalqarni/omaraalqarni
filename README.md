@@ -2,22 +2,25 @@
 
 
 - Junior software engineering student at <a href="http://www.kfupm.edu.sa/Default.aspx">#KFUPM</a> 💻 .
-- I’m currently working on the Udacity <img height="20px" width="20px" src="Assets/UdacityLogo.png"/> Full-Stack Nano Degree program which has various projects😍.
 - Ask me about anything on my <a href="https://twitter.com/omar_tweetts">twitter</a> 💬 .
 - You can reach me through 📥 : omaralqarni09@gmail.com .
 - fan of weird hobbies, Like making espresso :)
 
 
-<!--  stuff I've learned and currently using 
+
 <b> ⚡️ My favourite Technologies 💻 ☕️</b>
 <div>
   <ul>
-    
-<li><img height="20px" width="20px" src="Assets/js.png"/>   Javascript</li>
-<li>🐍 Python</li>
+    <li><img height="20px" width="20px" src="Assets/js.png"/>   Javascript</li>
+    <li>🐍 Python</li>
+    <li><img height="20px" width="20px" src="Assets/Node.png"/> Node.js</li>
+    <li><img height="20px" width="20px" src="Assets/Express.png"/> Express.js</li>
+    <li><img height="20px" width="20px" src="Assets/ts.png"/> Typescript</li>
+    <li><img height="20px" width="20px" src="Assets/Angular.png"/> Angular</li>
+    <li><img height="20px" width="20px" src="Assets/Mongo.png"/> Mongodb</li>
   </ul>
 </div>
-!-->
+
 
 <b>⚡ My github Stats</b>
 
