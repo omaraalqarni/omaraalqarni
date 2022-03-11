@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-
-- Junior software engineering student at <a href="http://www.kfupm.edu.sa/Default.aspx">#KFUPM</a> 💻 .
-- Ask me about anything on my <a href="https://twitter.com/omar_tweetts">twitter</a> 💬 .
-- You can reach me through 📥 : omaralqarni09@gmail.com .
+- software engineering student at <a href="http://www.kfupm.edu.sa/Default.aspx">#KFUPM</a> 💻 .
+- You can reach me through 📥 : omar_alqarni@outlook.com .
 - fan of weird hobbies, Like making espresso :)
 
 
@@ -16,7 +14,6 @@
     <li><img height="20px" width="20px" src="Assets/Node.png"/> Node.js</li>
     <li><img height="15px" width="45px" src="Assets/Express.png"/> Express.js</li>
     <li><img height="20px" width="20px" src="Assets/ts.png"/> Typescript</li>
-    <li><img height="20px" width="20px" src="Assets/Angular.png"/> Angular</li>
     <li><img height="20px" width="20px" src="Assets/Mongo.png"/> Mongodb</li>
   </ul>
 </div>
