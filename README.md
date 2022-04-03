@@ -2,7 +2,6 @@
 
 - software engineering student at <a href="http://www.kfupm.edu.sa/Default.aspx">#KFUPM</a> 💻 .
 - You can reach me through 📥 : omar_alqarni@outlook.com .
-- fan of weird hobbies, Like making espresso :)
 
 
 
