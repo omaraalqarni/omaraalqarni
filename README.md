@@ -13,7 +13,7 @@
     <li><img height="20px" width="20px" src="Assets/Node.png"/> Node.js</li>
     <li><img height="15px" width="45px" src="Assets/Express.png"/> Express.js</li>
     <li><img height="20px" width="20px" src="Assets/ts.png"/> Typescript</li>
-    <li><img height="20px" width="20px" src="Assets/Mongo.png"/> Mongodb</li>
+    <li><img height="20px" width="20px" src="Assets/Angular.png"/> Angular</li>
   </ul>
 </div>
 
