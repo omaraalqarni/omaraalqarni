@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- software engineering student at <a href="http://www.kfupm.edu.sa/Default.aspx">#KFUPM</a> 💻 .
+- Fresh graduate from <a href="http://www.kfupm.edu.sa/Default.aspx">#KFUPM</a> 💻 .
 - You can reach me through 📥 : omar_alqarni@outlook.com .
 
 
@@ -19,9 +19,6 @@
 
 
 <b>⚡ My github Stats</b>
-
-<p align="center">
-<img height="180em" src="https://mz-github-stats.vercel.app/api?username=omaraalqarni&show_icons=true&hide_border=true&theme=radical"/>
 
 <!-- Most Used Languages -->
 <img height="180em" src="https://mz-github-stats.vercel.app/api/top-langs/?username=omaraalqarni&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
